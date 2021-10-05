@@ -1,2 +1,3 @@
 # Sanket-Patel
-Pygame
+Mini Pygames 
+
